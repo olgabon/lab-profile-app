@@ -1,0 +1,7 @@
+.App {
+  background-image: url(../public/oval-bg.png);
+  height: 450px;
+  width: 700px;
+  background-repeat: no-repeat;
+  margin: 100px auto;
+}

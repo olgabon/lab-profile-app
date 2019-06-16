@@ -1,0 +1,27 @@
+.form-div {
+    display: flex;
+    justify-content: center;
+}
+.form-div label {
+    color: rgb(97, 94, 94);
+}
+.form-div input {
+    height: 30px;
+    width: 300px;
+    border: 1px solid #c0e3be;
+    margin-bottom: 10px;
+}
+.form-div h1{
+    color: rgb(97, 94, 94);
+}
+.form-div button {
+    color: black;
+    font-weight: bold;
+    width: 150px;;
+    text-decoration: none;
+    text-align: center;
+    background-color: #c0e3be;
+    padding: .6rem 1rem;
+    border-radius: 5px;
+    border: 1px solid #c0e3be;
+}

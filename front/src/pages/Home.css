@@ -1,0 +1,25 @@
+.text-div {
+    padding: 50px;
+}
+.text-div h1{
+    color: #c0e3be;
+}
+.text-div p{
+    color: rgb(58, 56, 56);
+    margin-bottom: 40px;
+}
+.buttons {
+    display: flex;
+    flex-direction: column;
+}
+.buttons a {
+    color: black;
+    font-weight: bold;
+    width: 150px;;
+    text-decoration: none;
+    text-align: center;
+    background-color: #c0e3be;
+    padding: .6rem 1rem;
+    border-radius: 5px;
+    
+}
